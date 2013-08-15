@@ -1,0 +1,25 @@
+{
+  "name": "node-glances",
+  "version": "0.1.0",
+  "description": "Glances client for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pegase745/node-glances"
+  },
+  "keywords": [
+    "glances",
+    "supervision"
+  ],
+  "author": "Michel Nemnom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pegase745/node-glances/issues"
+  },
+  "dependencies": {
+    "xmlrpc": "~1.1.0"
+  }
+}

@@ -1,1 +1,1 @@
-module.exports = require('./lib/node-gandi')
+module.exports = require('./lib/node-glances')

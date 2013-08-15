@@ -4,7 +4,7 @@
   "description": "Glances client for Node.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha *.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,11 @@
     "url": "https://github.com/pegase745/node-glances/issues"
   },
   "dependencies": {
-    "xmlrpc": "~1.1.0"
+    "xmlrpc": "~1.1.0",
+    "should": "~1.2.2"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "~1.2.2"
   }
 }

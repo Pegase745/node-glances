@@ -1,5 +1,5 @@
 {
-  "name": "node-glances",
+  "name": "glances",
   "version": "0.1.0",
   "description": "Glances client for Node.js",
   "main": "index.js",
